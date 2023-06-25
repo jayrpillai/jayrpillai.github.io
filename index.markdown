@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/CAREProfPic.jpg
+  src: /images/CAREProfPic.jpg
   alt: website picture
 ---
 

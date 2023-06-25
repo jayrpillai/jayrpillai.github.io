@@ -1,6 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+profile_picture:
+	src: /assets/img/CAREProfPic.jpg
+	alt: website picture
 ---
+
+<p>
+	# Welcome! 
+
+	I am a first-year Ph.D. student in Atmospheric Sciences at the University of Washington Seattle
+	 working with Professors David Battisti and Kyle Armour.
+</p>

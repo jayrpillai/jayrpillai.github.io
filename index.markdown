@@ -1,6 +1,6 @@
 ---
 layout: home
-  src: docs/assets/CAREProfPic.jpg
+  src: /jayrpillai.github.io/docs/assets/CAREProfPic.jpg
   alt: website picture
 ---
 

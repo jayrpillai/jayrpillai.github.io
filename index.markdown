@@ -1,6 +1,6 @@
 ---
 layout: home
-  src: /images/CAREProfPic.jpg
+  src: /docs/assets/CAREProfPic.jpg
   alt: website picture
 ---
 

@@ -1,7 +1,9 @@
 ---
 layout: home
 ---
-![Care](/docs/assets/CAREProfPic.jpg)
+#![Care](/docs/assets/CAREProfPic.jpg)
+
+<img src = "https://github.com/jayrpillai/jayrpillai.github.io/blob/ddf62f25de0dea5b7d337431c0dd1f1d824ff81d/docs/assets/CAREProfPic.jpg" alt = "profile pic" style = "width:500px; height:600px;">
 <p>
   Welcome! 
 

@@ -1,9 +1,7 @@
 ---
 layout: home
-  src: \docs\assets\CAREProfPic.jpg
-  alt: website picture
 ---
-
+![Care](/docs/assets/CAREProfPic.jpg)
 <p>
   Welcome! 
 
